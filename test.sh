@@ -2,6 +2,7 @@
 
 echo '----------Downloading files:-------------------'
 git clone https://github.com/marwanmaalouf/temporary.git
+cd temporary
 echo '-----------------------------------------------'
 
 echo '----------initial run:-------------------------'
